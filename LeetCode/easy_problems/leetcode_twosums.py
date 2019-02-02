@@ -18,14 +18,17 @@ class Solution:
         return 'No two numbers found in the list that satisfy the target'
 
 # test cases
+# solution = Solution()
+#
 # nums = [2, 3, 5, 7]
 # target = 9
+# solution.twoSum(nums, target)
 #
 # nums = [3, 2, 4]
 # target = 6
+# solution.twoSum(nums, target)
 #
 # nums = [3, 3]
 # target = 6
-#
-# solution = Solution()
 # solution.twoSum(nums, target)
+#

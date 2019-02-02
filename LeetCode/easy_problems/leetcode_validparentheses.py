@@ -34,6 +34,7 @@ class Solution:
 
 
 # test cases
-# s = '(((((((()'
 # solution = Solution()
+#
+# s = '(((((((()'
 # solution.isValid(s)

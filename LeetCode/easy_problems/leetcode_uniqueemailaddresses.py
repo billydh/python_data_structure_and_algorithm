@@ -18,6 +18,7 @@ class Solution:
 
 
 # test cases
-# test = ['test.email+alex@leetcode.com', 'test.e.mail+bob.cathy@leetcode.com', 'testemail+david@lee.tcode.com']
 # solution = Solution()
+#
+# test = ['test.email+alex@leetcode.com', 'test.e.mail+bob.cathy@leetcode.com', 'testemail+david@lee.tcode.com']
 # solution.numUniqueEmails(test)
