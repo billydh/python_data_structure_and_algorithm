@@ -16,7 +16,6 @@ class Solution:
         return 1 + max(left, right)
 
 
-
 # test cases
 # solution = Solution()
 #
